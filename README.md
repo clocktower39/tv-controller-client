@@ -1,3 +1,5 @@
+> **Moved:** this project now lives in the [`client/` folder of clocktower39/tv-hub](https://github.com/clocktower39/tv-hub/tree/main/client/), with its full history. This repository is archived.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
